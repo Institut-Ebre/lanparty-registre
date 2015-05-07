@@ -1,0 +1,6 @@
+- Descomprimir el fitxer .zip
+- Dins el directori ProjecteLANParty/includes/models trobem el fitxer "m_connexio.php".
+- Obrir el fitxer i editar els paràmetres de la 1ra funció "connexió()".
+
+- Crear una BBDD MySQL amb el nom de "lanparty" i importar el fitxer "lanparty.sql"
+- Comprovar que l'usuari amb el qual fem la connexió tingui permisos d'accés remot.
